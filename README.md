@@ -9,4 +9,4 @@ Fork or clone the above repo and then type following command after opening docke
 ```
 $ docker-compose up -d
 ```
-Access PHP app on http://localhost:80
+Access PHP app on http://localhost:8080
